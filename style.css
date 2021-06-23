@@ -1,0 +1,243 @@
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    width: 697px;
+    height: 49px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+.hambnav{
+        display: flex;
+        flex-direction: column;
+        margin-top: 10px;
+        margin-right: 2px;
+        
+      }
+.hambnav div{
+        width: 35px;
+        height: 5px;
+        background-color: black;
+        margin: 2px 0px;
+}
+
+
+.logo{
+    margin-left: 30px;
+    margin-top: 10px;
+    color: grey;
+}
+
+.container {
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items:center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: -40px;
+    color: grey;
+    font-family: Ropa Sans;
+    font-style: normal;
+    font-weight: normal;
+
+}
+
+.valorbotao{
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items:center;
+    margin-top: -20px;
+    margin-bottom: -40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+/* .container3 h4{
+    margin-bottom: -50px;
+} */
+
+#faixa {
+    background-color: green;
+    color: white;
+}
+
+#faixa2{
+    background-color: orange;
+    color: white;
+}
+
+
+.container1 {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+    flex-shrink: 0;
+    max-width:984px;
+}
+
+
+.container2 {
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content:space-between;
+    width: 608px;
+    height: 242px;
+}
+
+.container3 {
+    display: flex;
+    flex-wrap:wrap;
+	justify-content: center;
+}
+
+.container3 h2{
+    text-align: center;
+    width: 608px;
+    height: 20px;
+    color: grey;
+
+}
+
+.container8{
+    position: relative;
+    text-align: center;
+}
+
+.container9{
+    display: flex;
+    flex-wrap:wrap;
+	justify-content: center;
+
+}
+
+.container10{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #EEEEEE;
+
+}
+
+.valores{
+    margin-bottom: 20px;
+    width: 256px;
+    height: 242px;
+    background: #EEEEEE;
+    
+}
+
+
+#image1 {
+	/* Rectangle 3 */
+width: 608px;
+height: 259px;
+background: url(design_arquitetura.jpg);
+margin-bottom: 10px;
+
+}
+
+#image2{
+width: 256px;
+height: 144px;
+background: url(Lofts-contemporâneos-0.jpg);
+
+}
+
+#myimage{
+    width: 608px;
+    height: 80px;
+    background: rgba(196, 196, 196, 0.5);
+    margin-bottom: 20px;
+}
+
+/* Rectangle 8 */
+.footer{
+    width: 697px;
+    height: 243px;
+    background: #333333;
+    display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-between;  
+}
+
+#imagemfooter{
+    width: 252px;
+    height: 163px;
+    border-radius: 19px;
+    margin-left: 45px;
+    margin-top: 40px;
+}
+
+.footer h6{
+    margin-left: 160px ;
+    margin-right: 45px;
+    margin-top: 40px;
+    width: 175px;
+    height: 20px;
+    font-family: Ropa Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 13px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.container9 h4{
+    margin-left: 160px;
+    margin-right: 45px;
+    color: #EEEEEE;
+
+    
+}
+
+.container10{
+    width: 175px;
+    height: 20px;
+    display: flex;
+	flex-wrap: nowrap;
+	justify-content: left;
+    margin-top: -40px;
+    margin-left: 240px;
+
+}
+
+.container10 img{
+    display: flex;
+    justify-content:space-evenly;
+    /* margin-left: -1px; */
+    margin-right: 5px;
+    
+}
+
+
+
+
+
+/* Vector */
+
+position: absolute;
+left: -0.02%;
+right: -0.04%;
+top: 6.22%;
+bottom: 6.25%;
+
+background: #FFFFFF;
+
+
+
+
+
+
+
